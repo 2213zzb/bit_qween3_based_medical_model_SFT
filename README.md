@@ -3,7 +3,6 @@
 - data.py：数据集下载
 - train.py：微调模型训练
 - test.py：推理
-- checkpoint-360：微调后模型
 # 实验环境与命令
 此代码使用 accelerate launch 启动多卡训练，通过 swanlab 实时监控代码运行情况。
 ## 环境安装
